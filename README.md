@@ -21,7 +21,7 @@ Con este programa puedes **agregar**, **mostrar**, y **eliminar** tareas, ademá
 
 ---
 
-## 📚 Conceptos de Java practicados
+## Conceptos de Java practicados
 
 En este proyecto se han trabajado los siguientes conceptos:
 
