@@ -1,11 +1,11 @@
-# 📝 Gestor de Tareas en Consola (Java Básico)
+# Gestor de Tareas en Consola (Java Básico)
 
 Este es un pequeño proyecto en **Java** que permite gestionar una lista de tareas desde la consola.  
 Con este programa puedes **agregar**, **mostrar**, y **eliminar** tareas, además de salir del sistema con confirmación.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 1. **Agregar tarea**  
    Permite añadir nuevas tareas, evitando duplicados gracias a una verificación interna.
@@ -47,10 +47,3 @@ En este proyecto se han trabajado los siguientes conceptos:
   - Prevención de índices fuera de rango.
   - Confirmaciones antes de ejecutar acciones críticas.
 
----
-
-## 💻 Ejecución
-
-1. Compila el archivo:
-   ```bash
-   javac App.java
